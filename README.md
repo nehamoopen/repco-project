@@ -6,6 +6,8 @@ This template was cloned for the RepCo workshop on 26th & 27th October.
 
 I'm going to commit this as a demo for Git & GitHub.
 
+Hello this is a third line!
+
 ## Usage
 
 Click "Use this template" at the top of this page to create a new repository with the same folder structure.
